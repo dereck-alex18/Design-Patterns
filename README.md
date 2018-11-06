@@ -1,0 +1,2 @@
+This project is a calorie tracker where the user can add, update and delete the meal and the number of calories corresponding to the added meal. Besides, the data is stored in the Local Storage which means that the data persists even after the application is closed. Although the app is simple, as far as the design, lots of advanced concepts of JavaScript were used to build this project,
+such as Design Patterns, IIFEs and Closures.
